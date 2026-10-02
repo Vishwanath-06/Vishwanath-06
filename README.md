@@ -33,7 +33,7 @@ vishwanath  //  handle: Vishwanath-06  //  class: NETRUNNER  //  mode: SOLO
 </table>
 
 <table width="100%" bgcolor="#050505" border="2">
-  <tr><td><code>CYBERDECK</code></td><td>M2 deck, plus a Kaggle T4 (16 GB VRAM) as my Sandevistan: short bursts of borrowed speed</td></tr>
+  <tr><td><code>CYBERDECK</code></td><td>i7 U deck, plus a Kaggle T4 (16 GB VRAM) as my Sandevistan: short bursts of borrowed speed</td></tr>
   <tr><td><code>CHROME</code></td><td>Undergrad, CSE (AI/ML). Neural nets, spiking nets, conformal guarantees, agents</td></tr>
   <tr><td><code>CONTRACT LENGTH</code></td><td>4 to 8 months per op. Scope it, ship it, write it up</td></tr>
   <tr><td><code>DESTINATION</code></td><td>The Moon. In my case, IEEE conference proceedings</td></tr>
@@ -85,9 +85,7 @@ vishwanath  //  handle: Vishwanath-06  //  class: NETRUNNER  //  mode: SOLO
   <tr><td><code>BRIDGE.exe</code></td><td>Translates whole Indic-language documents</td><td><a href="https://github.com/Vishwanath-06/BhashaSethu">BhashaSethu</a></td></tr>
   <tr><td><code>PRUNE.exe</code></td><td>Strips weights until the model starts to hurt</td><td><a href="https://github.com/Vishwanath-06/Sparse-Neural-Nets">Sparse-Neural-Nets</a></td></tr>
   <tr><td><code>GHOST.exe</code></td><td>Retrieval and generation with the uplink cut</td><td><a href="https://github.com/Vishwanath-06/Offline_RAG">Offline_RAG</a></td></tr>
-  <tr><td><code>CALIBRATE.exe</code></td><td>Sets alarm thresholds you can trust, with conformal guarantees</td><td>Research op 03</td></tr>
-  <tr><td><code>RECOVER.exe</code></td><td>Gets an LLM agent back on mission after a tool fails</td><td>Research op 01</td></tr>
-</table>
+  <tr><td><code>CALIBRATE.exe</code></td><td>Sets alarm thresholds you can trust, with conformal guarantees</td><td>Under R&D </td></tr>
 
 <br/>
 
@@ -99,11 +97,11 @@ vishwanath  //  handle: Vishwanath-06  //  class: NETRUNNER  //  mode: SOLO
 <pre>
 <b>root@netrunner:~# cat current_ops.txt</b>
 
-OP_01  BUGGED_CHROME        LLM agent tool-failure recovery
+OP_01  BUGGED_CHROME        LLM agent swarm on local sys
 OP_02  NIGHT_CITY_GRID      Dynamic graph transformers
 OP_03  CYBERPSYCHOSIS_WATCH Conformal thresholds for visual anomaly
                             detection under drift (MVTec-AD)
-OP_04  CHROME_CRASH_PREDICT Spiking nets for seizure prediction (CHB-MIT)
+OP_04  CHROME_CRASH_PREDICT Spiking nets for seizure prediction (MITBIH+PTB_XL)
 
 <b>root@netrunner:~# echo $TARGET</b>
 THE_MOON  // IEEE conference proceedings
@@ -121,7 +119,7 @@ Open a file to read the briefing:
 
 <br/>
 
-Agents live and die by their tools. APIs time out, calls return garbage, schemas change mid-run. This op is about what an LLM agent does **after** a tool fails: notice it, recover, and keep the mission alive instead of looping or hallucinating a result.
+Agents live and die by their tools. APIs time out, calls return garbage, schemas change mid-run. This op is about what an LLM agent swarm runnin g of **U stage gig** in parallel with **Sandevistan**.
 
 </details>
 
@@ -148,7 +146,7 @@ Cyberpsychosis is a system drifting past its threshold without noticing. The res
 
 <br/>
 
-A spiking-network framework that predicts seizures on CHB-MIT, like a ripperdoc's early warning before the chrome crashes the brain. Energy claims stay honest: I report SynOps and spike sparsity as simulation proxies and make no hardware-performance claims.
+A spiking-network framework that predicts seizures on MIT-BIH & PTB-XL, like a ripperdoc's early warning before the chrome crashes the brain. Energy claims stay honest: I report SynOps and spike sparsity as simulation proxies and make no hardware-performance claims.
 
 </details>
 
