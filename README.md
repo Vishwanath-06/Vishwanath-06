@@ -49,7 +49,7 @@ vishwanath  //  handle: Vishwanath-06  //  class: NETRUNNER  //  mode: SOLO
 
 <table width="100%">
   <tr>
-    <th width="34%" align="center"><code>[ NEURAL_CORES ]</code></th>
+    <th width="34%" align="center"><code>[NEURAL_CORES]</code></th>
     <th width="33%" align="center"><code>[CLOUD_UPLINKS]</code></th>
     <th width="33%" align="center"><code>[CYBER_OPTICS]</code></th>
   </tr>
