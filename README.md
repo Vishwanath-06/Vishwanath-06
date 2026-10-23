@@ -91,27 +91,6 @@ vishwanath  //  handle: Vishwanath-06  //  class: NETRUNNER  //  mode: SOLO
 
 <img src="assets/sec-ops.svg" width="100%" alt="ICE_BREAKER // CURRENT_OPS" />
 
-<table width="100%" bgcolor="#050505" border="2">
-  <tr>
-    <td bgcolor="#050505">
-<pre>
-<b>root@netrunner:~# cat current_ops.txt</b>
-
-OP_01  BUGGED_CHROME        LLM agent swarm on local sys
-OP_02  NIGHT_CITY_GRID      Dynamic graph transformers
-OP_03  CYBERPSYCHOSIS_WATCH Conformal thresholds for visual anomaly
-                            detection under drift (MVTec-AD)
-OP_04  CHROME_CRASH_PREDICT Spiking nets for seizure prediction (MITBIH+PTB_XL)
-
-<b>root@netrunner:~# echo $TARGET</b>
-THE_MOON  // IEEE conference proceedings
-
-<b>root@netrunner:~# _</b>
-</pre>
-    </td>
-  </tr>
-</table>
-
 Open a file to read the briefing:
 
 <details>
