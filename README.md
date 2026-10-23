@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Netrunner boot screen with a V insignia: Vishwanath, Netrunner, Solo, AI/ML Architect" />
 
 <a href="https://github.com/Vishwanath-06">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=1200&color=000000&background=FCEE0A&center=true&vCenter=true&width=760&height=56&lines=Vishwanath+%7C+Netrunner+%7C+AI%2FML+Architect;Jacking+into+models+and+data.+Solo+run.;Chasing+the+Moon.+One+IEEE+paper+at+a+time." alt="Vishwanath | Netrunner | AI/ML Architect" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=1200&color=000000&background=FCEE0A&center=true&vCenter=true&width=760&height=56&lines=Vishwanath+%7C+Netrunner+%7C+AI%2FML+Architect;Jacking+into+models+and+data.+Solo+run.;Chasing+the+Moon.+One+model+architecture+at+a+time." alt="Vishwanath | Netrunner | AI/ML Architect" />
 </a>
 
 </div>
