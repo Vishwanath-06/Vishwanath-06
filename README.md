@@ -17,14 +17,14 @@
     <td bgcolor="#050505">
 <pre>
 <b>root@netrunner:~# define netrunner</b>
-
+&nbsp;
 netrunner (n.)  someone who jacks into the Net, bends it, and
                 walks out with what they came for.
-
+&nbsp;
 in my case:     I jack into models and data. I train them, strip them
                 down, break them on purpose, and measure exactly when
                 they can still be trusted.
-
+&nbsp;
 <b>root@netrunner:~# whoami</b>
 vishwanath  //  handle: Vishwanath-06  //  class: NETRUNNER  //  mode: SOLO
 </pre>
@@ -33,7 +33,7 @@ vishwanath  //  handle: Vishwanath-06  //  class: NETRUNNER  //  mode: SOLO
 </table>
 
 <table width="100%" bgcolor="#050505" border="2">
-  <tr><td><code>CYBERDECK</code></td><td>i7 U deck, plus a Kaggle T4 (16 GB VRAM) as my Sandevistan: short bursts of borrowed speed</td></tr>
+  <tr><td><code>CYBERDECK</code></td><td>Intel Core i7-1355U, 16 GB DDR5, plus a Kaggle T4 (16 GB VRAM) as my Sandevistan: short bursts of borrowed speed</td></tr>
   <tr><td><code>CHROME</code></td><td>Undergrad, CSE (AI/ML). Neural nets, spiking nets, conformal guarantees, agents</td></tr>
   <tr><td><code>CONTRACT LENGTH</code></td><td>4 to 8 months per op. Scope it, ship it, write it up</td></tr>
   <tr><td><code>DESTINATION</code></td><td>The Moon. In my case, IEEE conference proceedings</td></tr>
@@ -41,7 +41,7 @@ vishwanath  //  handle: Vishwanath-06  //  class: NETRUNNER  //  mode: SOLO
 
 <br/>
 
-<img src="assets/sandevistan.svg" width="100%" alt="Sandevistan status HUD: Kaggle T4 16GB, M2 deck linked" />
+<img src="assets/sandevistan.svg" width="100%" alt="Sandevistan status HUD: Kaggle T4 16GB VRAM, Intel Core i7-1355U laptop with 16GB DDR5 linked" />
 
 <br/>
 
@@ -85,7 +85,8 @@ vishwanath  //  handle: Vishwanath-06  //  class: NETRUNNER  //  mode: SOLO
   <tr><td><code>BRIDGE.exe</code></td><td>Translates whole Indic-language documents</td><td><a href="https://github.com/Vishwanath-06/BhashaSethu">BhashaSethu</a></td></tr>
   <tr><td><code>PRUNE.exe</code></td><td>Strips weights until the model starts to hurt</td><td><a href="https://github.com/Vishwanath-06/Sparse-Neural-Nets">Sparse-Neural-Nets</a></td></tr>
   <tr><td><code>GHOST.exe</code></td><td>Retrieval and generation with the uplink cut</td><td><a href="https://github.com/Vishwanath-06/Offline_RAG">Offline_RAG</a></td></tr>
-  <tr><td><code>CALIBRATE.exe</code></td><td>Sets alarm thresholds you can trust, with conformal guarantees</td><td>Under R&D </td></tr>
+  <tr><td><code>CALIBRATE.exe</code></td><td>Sets alarm thresholds you can trust, with conformal guarantees</td><td>Under R&amp;D</td></tr>
+</table>
 
 <br/>
 
@@ -98,7 +99,7 @@ Open a file to read the briefing:
 
 <br/>
 
-Agents live and die by their tools. APIs time out, calls return garbage, schemas change mid-run. This op is about what an LLM agent swarm runnin g of **U stage gig** in parallel with **Sandevistan**.
+Agents live and die by their tools. APIs time out, calls return garbage, schemas change mid-run. This op is about an LLM agent swarm running its gigs on the i7 deck in parallel with the **Sandevistan** (Kaggle T4), and what it does when a tool fails mid-run.
 
 </details>
 
@@ -125,7 +126,7 @@ Cyberpsychosis is a system drifting past its threshold without noticing. The res
 
 <br/>
 
-A spiking-network framework that predicts seizures on MIT-BIH & PTB-XL, like a ripperdoc's early warning before the chrome crashes the brain. Energy claims stay honest: I report SynOps and spike sparsity as simulation proxies and make no hardware-performance claims.
+A spiking-network framework that predicts cardiac crises from ECG on MIT-BIH &amp; PTB-XL, like a ripperdoc's early warning before the chrome crashes the body. Energy claims stay honest: I report SynOps and spike sparsity as simulation proxies and make no hardware-performance claims.
 
 </details>
 
@@ -139,12 +140,12 @@ A spiking-network framework that predicts seizures on MIT-BIH & PTB-XL, like a r
     <td width="50%"><a href="https://github.com/Vishwanath-06/BhashaSethu"><img src="assets/tile-bhashasethu.svg" width="100%" alt="BhashaSethu: document-level translation for low-resource Indic languages" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/Vishwanath-06/SCC-ALAR"><img src="assets/tile-scc-alar.svg" width="100%" alt="SCC-ALAR: skin lesion classification with hybrid CNN-Transformers" /></a></td>
-    <td width="50%"><a href="https://github.com/Vishwanath-06/Sparse-Neural-Nets"><img src="assets/tile-sparse-neural-nets.svg" width="100%" alt="Sparse-Neural-Nets: pruning study, dense vs sparse" /></a></td>
+    <td width="50%"><a href="https://github.com/Vishwanath-06/speak-to-repo"><img src="assets/tile-speak-to-repo.svg" width="100%" alt="speak-to-repo: recorded design reviews and live voice turned into repo-grounded diagrams, patches and ADRs" /></a></td>
+    <td width="50%"><a href="https://github.com/Vishwanath-06/CGC-AD"><img src="assets/tile-cgc-ad.svg" width="100%" alt="CGC-AD: conformal-guided curriculum for visual anomaly detection under drift" /></a></td>
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/Vishwanath-06/Offline_RAG"><img src="assets/tile-offline-rag.svg" width="100%" alt="Offline_RAG: retrieval-augmented generation that runs offline" /></a></td>
-    <td width="50%"><a href="https://github.com/Vishwanath-06/FusionPhishGuard"><img src="assets\tile-fusion-phishguard.svg" width="100%" alt="FusionPhishGuard: A MultiBranch Deep Learning framework for Phishing Detection" /></a></td>
+    <td width="50%"><a href="https://github.com/Vishwanath-06/FusionPhishGuard"><img src="assets/tile-fusion-phishguard.svg" width="100%" alt="FusionPhishGuard: a multi-branch deep learning framework for phishing detection" /></a></td>
   </tr>
 </table>
 
@@ -158,8 +159,7 @@ A spiking-network framework that predicts seizures on MIT-BIH & PTB-XL, like a r
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vishwanath-06&show_icons=true&include_all_commits=true&custom_title=NCPD_BOUNTY_BOARD&bg_color=050505&title_color=FCEE0A&text_color=00FFFF&icon_color=D92121&border_color=FCEE0A&border_radius=0" alt="Vishwanath-06 GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwanath-06&layout=compact&custom_title=CHROME_IN_USE&bg_color=050505&title_color=FCEE0A&text_color=00FFFF&icon_color=D92121&border_color=FCEE0A&border_radius=0" alt="Most used languages" />
+<img src="assets/street-cred.svg" width="100%" alt="Street cred: repos, stars, followers and top languages for Vishwanath-06" />
 
 <br/>
 
